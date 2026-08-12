@@ -41,7 +41,7 @@ I use AI as part of the operating workflow, not as a standalone tool. My focus i
 
 ## Selected leadership insights
 
-I use AI-assisted production tools to turn operational experience into concise leadership content focused on scale, performance, client risk, and better decision systems.
+I use AI to extend how I analyze, structure, and communicate operational ideas, turning experience into practical insights on scale, performance, client risk, and better decision systems.
 
 - **[Scaling from 120 to 300 people without losing control](https://lnkd.in/p/eQruQcCG)** — Why sustainable growth depends on leadership ownership, outcome-based KPIs, management cadence, and standardized processes rather than heroic effort.
 - **[A green dashboard can hide a red operation](https://lnkd.in/p/e4YUFs-W)** — Why repeated “everything is OK” signals should be validated against data, trends, repeatability, and operational risk.
