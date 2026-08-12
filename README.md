@@ -39,6 +39,15 @@ I use AI as part of the operating workflow, not as a standalone tool. My focus i
 - Explore automation opportunities and reduce repetitive work.
 - Support research, synthesis, and structured problem solving.
 
+## Selected leadership insights
+
+I use AI-assisted production tools to turn operational experience into concise leadership content focused on scale, performance, client risk, and better decision systems.
+
+- **[Scaling from 120 to 300 people without losing control](https://lnkd.in/p/eQruQcCG)** — Why sustainable growth depends on leadership ownership, outcome-based KPIs, management cadence, and standardized processes rather than heroic effort.
+- **[A green dashboard can hide a red operation](https://lnkd.in/p/e4YUFs-W)** — Why repeated “everything is OK” signals should be validated against data, trends, repeatability, and operational risk.
+- **[Three signs a client account is heading toward escalation](https://lnkd.in/p/eaZzKvuK)** — Why changes in client behavior can be more useful leading indicators than the escalation itself.
+- **[Professional introduction](https://lnkd.in/p/eTnct7sY)** — A short overview of my approach to leading operations at scale, developing leaders, and using technology and data to improve execution.
+
 ## Background
 
 My career combines business leadership with a technical foundation as a **Product Design Engineer**. Before moving into large-scale service operations, I worked in project engineering, technical solution selling, key account management, and business development across Colombia, Latin America, and the United States.
